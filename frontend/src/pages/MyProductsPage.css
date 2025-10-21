@@ -1,0 +1,5 @@
+.my-products-page {
+  padding: var(--spacing-2xl) 0;
+  min-height: calc(100vh - 200px);
+  animation: fadeIn var(--transition-slow) ease-out;
+}
